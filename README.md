@@ -16,4 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ![Screenshot_1700044868](https://github.com/tvishabhatt/Bhagvat_gita_app_pr4/assets/122964289/74f77d6a-2417-40d8-8e09-a85e6b4c7580)
 
-![Uploading Screenshot_1700044884.png…]()
+![Screenshot_1700044889](https://github.com/tvishabhatt/Bhagvat_gita_app_pr4/assets/122964289/f35a5ad7-a98e-4d23-b482-2c8f878829b7)
+
