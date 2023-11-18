@@ -39,4 +39,6 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot_1700045649](https://github.com/tvishabhatt/Bhagvat_gita_app_pr4/assets/122964289/d34921e9-d283-4d4a-987f-30707c6428be)
 ![Screenshot_1700045653](https://github.com/tvishabhatt/Bhagvat_gita_app_pr4/assets/122964289/bfb3dfad-19da-46ed-9b7e-4868a9395ef9)
 ![Screenshot_1700045656](https://github.com/tvishabhatt/Bhagvat_gita_app_pr4/assets/122964289/793cf42c-0d97-41cc-99b0-c63ce838a21b)
+![WhatsApp Image 2023-11-18 at 14 53 07](https://github.com/tvishabhatt/Bhagvat_gita_app_pr4/assets/122964289/b28d103a-3868-4c78-a298-5a79d1534cd0)
+
 
