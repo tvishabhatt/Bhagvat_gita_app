@@ -1,4 +1,4 @@
-<h1>🚀 Departure_PR4</h1>
+<h1>🚀 Departure_PR4 (Bhagavd gita app) </h1>
 <p>A new Flutter project that showcases beautiful UI design and smooth functionality.</p>
 
 <h2>🌟 Features</h2>
