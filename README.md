@@ -6,17 +6,10 @@
   <li>Intuitive UI/UX for seamless user experience</li>
   <li>Real-time data updates and responsive design</li>
   <li>Integration of Bhagavad Gita for spiritual content</li>
+  <li>Changr theme</li>
 </ul>
 
-<h2>🛠️ Getting Started</h2>
-<p>
-  This project is a starting point for a Flutter application. Below are some resources to help you kickstart your Flutter development journey:
-</p>
-<ul>
-  <li><a href="https://docs.flutter.dev/get-started/codelab">Lab: Write your first Flutter app</a></li>
-  <li><a href="https://docs.flutter.dev/cookbook">Cookbook: Useful Flutter samples</a></li>
-  <li><a href="https://docs.flutter.dev/">Flutter Documentation</a> — Tutorials, samples, and the full API reference.</li>
-</ul>
+
 
 <h2>🎥 Demo Video</h2>
 <p>Click below to watch a video demo of the app in action:</p>
